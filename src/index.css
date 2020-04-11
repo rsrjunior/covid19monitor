@@ -1,0 +1,58 @@
+*{
+    text-transform: uppercase;
+    font-family: monospace;
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+h1,h2{
+    text-align: center;
+}
+header{
+    font-size: 2em;
+    font-family: monospace;
+    font-weight: 550;
+    text-align: center;
+    background-color: darkred;
+    color: lightyellow;
+}
+.box{
+    margin: 0.5em auto 0.5em auto;
+    padding: 0;
+    max-width: 800px;
+    max-height: 400px;
+}
+.box-history{
+    border: darkred solid;
+    background-color: lightyellow;
+}
+.box-addcountry{
+    border: grey dashed;
+    background-color: lightgrey;
+    opacity: 0.8;
+    text-align: center;
+}
+.button-addcountry{
+    background: darkred;
+    color:#fff
+}
+.button-closecountry{
+    background: inherit;
+    color:darkred;
+    border-top: none;
+    border-right: none;
+    border-bottom: darkred solid;
+    border-left: darkred solid;
+    padding: 0.1em 0.5em;
+}
+.fetchInfo{
+    font-size: 0.70em;
+    font-style: italic;
+    text-align: right;
+}
+
+select {
+    text-transform: inherit;
+    background: lightyellow;
+    margin: 10px;
+}

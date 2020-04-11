@@ -1,0 +1,16 @@
+{
+  "short_name": "Covid-19 Monitor",
+  "name": "Covid-19 Monitor",
+  "icons": [
+    {
+      "src": "covid19.ico",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "covid19.png",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone"
+}
