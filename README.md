@@ -9,3 +9,7 @@ React: This project was bootstrapped with [Create React App](https://github.com/
 [Pure.css](https://purecss.io/) for responsiveness 
 
 [Recharts](http://recharts.org/) for the Graphs
+
+## Application
+
+Check it out, its published on https://rsrjunior.github.io/covid19monitor/
